@@ -1,0 +1,14 @@
+﻿<b>Times Square Countdown</b> 1560 Broadway, Nowy Jork, NY 10036<br>
+<b>Central Park</b> 59th to 110th St., from Central Park West to 5th Ave., Manhattan Borough, Nowy Jork, NY 10022<br>
+<b>Metropolitan Museum of Art</b> 1000 5th Ave, Nowy Jork, NY 10028-0198<br>
+<b>Taras widokowy Top of the Rock</b> 30 Rockefeller Center, Nowy Jork, NY<br>
+<b>Memoriał 9/11</b> 180 Greenwich St, World Trade Center, Nowy Jork, NY 10007<br>
+<b>High Line</b> Nowy Jork, NY 10014<br>
+<b>Frick Collection</b> 1 E. 70th St., Fifth Ave., Nowy Jork, NY 10021<br>
+<b>Grand Central Terminal</b> 89 E 42nd Street, Nowy Jork, NY 10017<br>
+<b>Empire State Building</b> 350 Fifth Avenue, Between 33rd and 34th Streets, Nowy Jork, NY 10118<br>
+<b>Park Bryant</b> 6th Ave. between W. 40th and W. 42nd Sts., Nowy Jork, NY 10017<br>
+<b>Radio City Music Hall</b> 1260 6th Avenue (Avenue of the Americas), Between 50th and 51st Streets, Nowy Jork, NY 10020<br>
+<b>Statue of Liberty</b> Liberty Island, Nowy Jork, NY 10004<br>
+<b>Ground Zero Museum Workshop</b> 420 West 14th Street, Floor 2, Nowy Jork, NY 10014<br>
+<b>Rockefeller Center</b> 45 Rockefeller Plaza, Nowy Jork, NY 10111<br>

@@ -1,0 +1,41 @@
+﻿<!doctype html>
+  <html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NewYorkPhoto</title>
+  <link rel="stylesheet" type="text/css" href="styles/main-high.css"/>
+  <link rel="stylesheet" type="text/css" media="only screen and (max-device-width:560px )" href="styles/main-low.css"/>
+  <link rel="icon" href="./images/icon.ico">
+  <link rel="shortcut icon" href="./images/icon.ico"/>
+  <link rel="stylesheet" href="styles/lightbox.min.css">
+  <script src="js/jquery-2.1.4.min.js"></script>
+  </head>
+    
+  <body>
+  	<header id="menu">
+  		<a href="index.html"><img id="icon" alt="Web Icon" src="images/icon.png"/><a>
+  		<a id="banner_text" href="index.html"><p id="banner_first_letter">N</p><p id="banner_second_letter">Y</p>Photo</a>
+  		<a href="others.html" id="menu_element_active">Others</a>
+    	<a href="musicvideo.html" id="menu_element">Music<p id="banner_second_letter">&amp;</p>Video</a>
+    	<a href="color.html" id="menu_element">Color</a>
+    	<a href="blackwhite.html" id="menu_element">Black<p id="banner_second_letter">&amp;</p>White</a>
+    	<a href="index.html" id="menu_element">Start</a>
+    </header>
+  	<main id="bottom">
+  		<section id="content">
+        <article id="others-text">
+        Przeglądarka nie może otworzyć jQuery przez file:/// by pobrać zawartość. Spróbuj włączyć stronę z serwera.
+        </article>
+         <article id="adresses-text">
+        Przeglądarka nie może otworzyć jQuery przez file:/// by pobrać zawartość. Spróbuj włączyć stronę z serwera.
+        </article>
+        <script type="text/javascript">
+		$("#others-text").load("./texts/others.txt");
+		$("#adresses-text").load("./texts/adresses.txt");
+        </script>
+  		</section>
+  	</main>
+    <script src="./js/lightbox-plus-jquery.min.js"></script>
+  </body>
+</html>
